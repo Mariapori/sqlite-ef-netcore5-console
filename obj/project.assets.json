@@ -5557,11 +5557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/topias/Projects/SQLite/SQLite/SQLite.csproj",
+      "projectUniqueName": "/Users/topias/Documents/uusi/SQLite.csproj",
       "projectName": "SQLite",
-      "projectPath": "/Users/topias/Projects/SQLite/SQLite/SQLite.csproj",
+      "projectPath": "/Users/topias/Documents/uusi/SQLite.csproj",
       "packagesPath": "/Users/topias/.nuget/packages/",
-      "outputPath": "/Users/topias/Projects/SQLite/SQLite/obj/",
+      "outputPath": "/Users/topias/Documents/uusi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/topias/.config/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LWRsTgdXvulcJ1zacqeYH8eC8ItQsqE+YMjhSiMoJsyyHYpbr0bWCh5FCecv2F4yQWBfGK6J9hz1Xhb2mg0YFg==",
+  "dgSpecHash": "I2MwrzAQ4Si3qmAlZpOIAuXN48DIOpjKGbKqTWZhVuF7BQaIj2Gcux4dq+6UKDoU56rDuPE49H9O4d7LpQDCcg==",
   "success": true,
-  "projectFilePath": "/Users/topias/Projects/SQLite/SQLite/SQLite.csproj",
+  "projectFilePath": "/Users/topias/Documents/uusi/SQLite.csproj",
   "expectedPackageFiles": [
     "/Users/topias/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/topias/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
